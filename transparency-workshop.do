@@ -9,3 +9,4 @@ sysuse auto
 reg price mpg
 
 save
+save
